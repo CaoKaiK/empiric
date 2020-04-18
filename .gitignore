@@ -1,2 +1,11 @@
+.vscode
+
 # Virtual Env
-/venv
+venv
+
+# Cache
+__pycache__
+
+# Database
+
+*.sqlite
